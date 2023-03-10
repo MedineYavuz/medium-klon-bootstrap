@@ -1,0 +1,1 @@
+Bu çalışmada Medium Klonu yer almaktadır.
